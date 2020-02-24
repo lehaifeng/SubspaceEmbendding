@@ -1,1 +1,1 @@
-readme
+This is a MATLAB implementation of Functional Region Detection With A Multiple Subspaces-based Model.
